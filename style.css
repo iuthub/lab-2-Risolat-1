@@ -1,0 +1,17 @@
+body{
+	background-color: grey;
+}
+
+
+h1, h2{
+	color: lightblue;
+}
+strong{
+	color: yellow;
+}
+b{
+	color: yellow;
+}
+.link{
+	color:red;
+}
